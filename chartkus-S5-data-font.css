@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'consolas';
+    src: url('consolas.ttf') format('truetype'),
+}
+
+
+   body {
+    font-family: 'consolas';
+}
